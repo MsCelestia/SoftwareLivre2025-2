@@ -9,6 +9,11 @@
 
 ![Screenshot do bug no Brave](assets/report_bug-rafael.png)
 
+
+- As imagens não estão sendo exibidas corretamente na página oficial do Brave Rewards ([Brave#51172](https://github.com/brave/brave-browser/issues/51506)).
+
+![Screenshot do bug no Brave](assets/report_bug-edilson.png)
+
 ## Adicionar pequena funcionalidade
 
 - Ferramenta de Texto para Voz em português ([Brave Voice Brasil](https://github.com/jorgelucasp42/brave-voice-brasil)).

@@ -3,6 +3,10 @@
 - **Alunos:** João Brasil, Pedro Ariel, Uriel Ewerton e Victor José.
 - **Nível:** Graduação
 
+## Tradução
+
+- Página da ArchWiki atrualizada com nova tradução. ([link](https://wiki.archlinux.org/title/USB_flash_installation_medium_(Portugu%C3%AAs))).
+
 ## UX/Design
 
 - Desenvolvimento e configuração de Ambiente dwm. ([dwm setup](https://github.com/joaoprbrasil/dwm)).

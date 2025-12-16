@@ -14,7 +14,7 @@
 
 ![Screenshot do bug no Brave](assets/report_bug-edilson.png)
 
-## Adicionar pequena funcionalidade
+## Desenvolvimento de Script ou Ferramenta Auxiliar
 
 - Ferramenta de Texto para Voz em português ([Brave Voice Brasil](https://github.com/jorgelucasp42/brave-voice-brasil)).
 

@@ -24,7 +24,8 @@ Reinaldo de Jesus
 - Inserção de chat com IA no site
 - IA responde com base na documentação
 - Evidências: 
-- ![alt text](image-1.png) 
+- ![alt text](image-1.png)
+- https://github.com/gabrielsilveira2004/git_rag/
 
 ---
 

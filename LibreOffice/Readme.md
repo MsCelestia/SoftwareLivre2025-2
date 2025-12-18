@@ -5,10 +5,10 @@
 - **Nível:** Graduação
 - 
 ## Contribuições
-- 1 Análise de Segurança
-- 2 Melhorar Documentação
-- 3 Produção de Conteúdo Audiovisual
-- 4 Contribuição de UX/Design
+- 1 Reportar Bug
+- 2 
+- 3 
+- 4 
 - 
 ## Reportar Bug
 

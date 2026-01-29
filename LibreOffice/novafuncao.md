@@ -18,3 +18,5 @@ Não existe um modo semelhante, apenas o “Web Layout” e “Tela Cheia”, ma
 Criar um botão ou macro que ativa um “modo de leitura” improvisado, diminuindo barras e ajustando zoom.
 
 Isso mostra uma diferença real entre Word e LibreOffice.
+
+Onde foi postado a ideia: https://bugs.documentfoundation.org/show_bug.cgi?id=170036

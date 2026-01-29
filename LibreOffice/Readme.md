@@ -1,5 +1,5 @@
 
-# Relatório do Trabalho Final - Sistema operacional Arch Linux
+# Relatório do Trabalho Final - LibreOffice
 
 - **Alunos:**
   
@@ -15,7 +15,7 @@
 
 - **Nível:** Graduação
   
-## Contribuições
+
 
 ## Reportar Bug
 

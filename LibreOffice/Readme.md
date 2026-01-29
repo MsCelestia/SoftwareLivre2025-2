@@ -1,7 +1,7 @@
 
 # Relatório do Trabalho Final - LibreOffice
 
-- **Alunos:**
+**Alunos:**
   
 - Antônio José Coelho Duailibe
 
@@ -13,7 +13,7 @@
 
 - Sofia Coelho Berredo
 
-- **Nível:** Graduação
+**Nível:** Graduação
   
 
 
@@ -23,7 +23,7 @@
 
 - Página onde o bug foi reportado ([link](https://bugs.documentfoundation.org/show_bug.cgi?id=170025)).
 
-- Feito por Karla Alexandra Chaves
+Feito por Karla Alexandra Chaves
 
 ## Nova Função
 
@@ -33,6 +33,7 @@
 
 - [Apresentação da Nova Função](./LibreOffice/SUGESTÃO%20DE%20FUnÇÃO%20NO%20LIBRE%20OFICE.pdf)
 
-- Feito por Dyogo Cesar
+Feito por Dyogo Cesar
+
 
 

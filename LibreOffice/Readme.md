@@ -19,7 +19,7 @@
 
 ## Reportar Bug
 
-- Página da implementação ([link]([https://bugs.documentfoundation.org/show_bug.cgi?id=170025](https://bugs.documentfoundation.org/show_bug.cgi?id=170036)).
+- Página da implementação ([link]([https://bugs.documentfoundation.org/show_bug.cgi?id=170025](https://bugs.documentfoundation.org/show_bug.cgi?id=170036))).
 
 - Página onde o bug foi reportado ([link](https://bugs.documentfoundation.org/show_bug.cgi?id=170025)).
 

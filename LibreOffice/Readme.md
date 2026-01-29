@@ -29,7 +29,7 @@
 
 - Implementação de um botão para leitura, retirando de maneira automática as ferramentas de utilização e configuração de texto.
 
--
+- [Descrição da Nova Função](./nova-%20funcao/)
 
 - Feito por Dyogo Cesar
 

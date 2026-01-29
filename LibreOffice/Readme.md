@@ -27,5 +27,10 @@
 
 ## Nova Função
 
+- Implementação de um botão para leitura, retirando de maneira automática as ferramentas de utilização e configuração de texto.
+
+-
+
+- Feito por Dyogo Cesar
 
 

@@ -29,7 +29,9 @@
 
 - Implementação de um botão para leitura, retirando de maneira automática as ferramentas de utilização e configuração de texto.
 
-- [Descrição da Nova Função](./nova-%20funcao/ATIVIDADE SALETE - Implantação de botão libreoffice.txt)
+- [Descrição da Nova Função](./LibreOffice/novafuncao.md)
+
+- [Apresentação da Nova Função](./LibreOffice/SUGESTÃO%20DE%20FUnÇÃO%20NO%20LIBRE%20OFICE.pdf)
 
 - Feito por Dyogo Cesar
 

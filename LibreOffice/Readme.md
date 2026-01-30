@@ -35,5 +35,12 @@ Feito por Karla Alexandra Chaves
 
 Feito por Dyogo Cesar
 
+## Tradução
+
+- Traduzir páginas do LibreOffice no wiki
+- Link: https://wiki.documentfoundation.org/Accessibility/Creating_Accessible_LibreOffice_Files
+
+- Prints: 
+
 
 

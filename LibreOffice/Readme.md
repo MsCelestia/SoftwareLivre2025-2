@@ -5,9 +5,7 @@
 
 - Dyogo Cesar
 
-- dyogo cesar goncalves silveira
-
-- **Nível:** Graduação
+-
 - 
 ## Contribuições
 - 1 
